@@ -12,6 +12,14 @@
     }
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robstumborg/opencode-qwenchat-auth.git"
+  },
+  "homepage": "https://github.com/robstumborg/opencode-qwenchat-auth#readme",
+  "bugs": {
+    "url": "https://github.com/robstumborg/opencode-qwenchat-auth/issues"
+  },
   "keywords": [
     "opencode",
     "qwen",
